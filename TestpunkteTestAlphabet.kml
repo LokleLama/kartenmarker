@@ -1,0 +1,365 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+	<Document>
+		<name>Zeichnung</name>
+		<Placemark id="drawing_feature_1743708901234">
+			<name>Position (A)lpha</name>
+			<description/>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.296672641961852,46.846734716797236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743712402562">
+			<name>Position (B)ravo</name>
+			<description>An dieser Position wird wegen der Bäume eine schlechte Verbindung erwartet</description>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.296187261327516,46.8451766777894</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743712847056">
+			<name>Position (C)harlie</name>
+			<description>An dieser Position sollte die Verbindung wieder besser sein obwohl die Distanz höher ist.</description>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.295783115451716,46.84430138589768</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743712941242">
+			<name>Position (D)elta</name>
+			<description/>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.295270141194969,46.84312517323513</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743712985450">
+			<name>Position (E)cho</name>
+			<description/>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.294557063763149,46.841907958899164</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743713068409">
+			<name>Position (F)oxtrot</name>
+			<description/>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.293276175607392,46.840245559757385</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743713108672">
+			<name>Position (G)olf</name>
+			<description/>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.293060798304875,46.839156476135074</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743713161940">
+			<name>Position (H)otel</name>
+			<description/>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.292125103999027,46.83805078675225</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743713448173">
+			<name>Position (I)ndia</name>
+			<description>Die Häuser könnten hier ein Verbindung verhindern, wenn fremde WLAN anwesend sind.</description>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.293403193740474,46.83666001444932</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743713569672">
+			<name>Position (J)uliet</name>
+			<description>Auch hier könnten fremde WLAN eine Verbindung verhindern.</description>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.289667048652673,46.83516958298598</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743713663035">
+			<name>Position (K)ilo</name>
+			<description/>
+			<Style>
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1.5</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.287730695486573,46.83403292311436</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="drawing_feature_1743713923330">
+			<name>Position (J)uliet (B)ravo</name>
+			<description>Die ist eine Vergleichsposition wenn viele WLAN in der Gegend von Position (J)uliet sein sollten.</description>
+			<Style>
+				<IconStyle>
+					<scale>0.5</scale>
+					<Icon>
+						<href>https://map.geo.admin.ch/api/icons/sets/default/icons/001-marker@1x-255,0,0.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+					<hotSpot x="24" y="6" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>ff0000ff</color>
+					<scale>1</scale>
+				</LabelStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="textOffset">
+					<value>0,-44.75</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.288572022355732,46.83610908088474</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
