@@ -21,7 +21,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -51,7 +51,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -81,7 +81,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -111,7 +111,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -141,7 +141,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -171,7 +171,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -201,7 +201,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -231,7 +231,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -261,7 +261,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -291,7 +291,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -321,7 +321,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -351,7 +351,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,0</value>
+					<value>100,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
