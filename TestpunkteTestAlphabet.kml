@@ -2,7 +2,7 @@
 	<Document>
 		<name>Zeichnung</name>
 		<Placemark id="drawing_feature_1743708901234">
-			<name>Position (A)lpha</name>
+			<name>(A)lpha</name>
 			<description/>
 			<Style>
 				<IconStyle>
@@ -21,7 +21,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -32,8 +32,8 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743712402562">
-			<name>Position (B)ravo</name>
-			<description>An dieser Position wird wegen der Bäume eine schlechte Verbindung erwartet</description>
+			<name>(B)ravo</name>
+			<description>An dieser wird wegen der Bäume eine schlechte Verbindung erwartet</description>
 			<Style>
 				<IconStyle>
 					<scale>1</scale>
@@ -51,7 +51,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -62,8 +62,8 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743712847056">
-			<name>Position (C)harlie</name>
-			<description>An dieser Position sollte die Verbindung wieder besser sein obwohl die Distanz höher ist.</description>
+			<name>(C)harlie</name>
+			<description>An dieser sollte die Verbindung wieder besser sein obwohl die Distanz höher ist.</description>
 			<Style>
 				<IconStyle>
 					<scale>1</scale>
@@ -81,7 +81,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -92,7 +92,7 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743712941242">
-			<name>Position (D)elta</name>
+			<name>(D)elta</name>
 			<description/>
 			<Style>
 				<IconStyle>
@@ -111,7 +111,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -122,7 +122,7 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743712985450">
-			<name>Position (E)cho</name>
+			<name>(E)cho</name>
 			<description/>
 			<Style>
 				<IconStyle>
@@ -141,7 +141,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -152,7 +152,7 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743713068409">
-			<name>Position (F)oxtrot</name>
+			<name>(F)oxtrot</name>
 			<description/>
 			<Style>
 				<IconStyle>
@@ -171,7 +171,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -182,7 +182,7 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743713108672">
-			<name>Position (G)olf</name>
+			<name>(G)olf</name>
 			<description/>
 			<Style>
 				<IconStyle>
@@ -201,7 +201,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -212,7 +212,7 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743713161940">
-			<name>Position (H)otel</name>
+			<name>(H)otel</name>
 			<description/>
 			<Style>
 				<IconStyle>
@@ -231,7 +231,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -242,7 +242,7 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743713448173">
-			<name>Position (I)ndia</name>
+			<name>(I)ndia</name>
 			<description>Die Häuser könnten hier ein Verbindung verhindern, wenn fremde WLAN anwesend sind.</description>
 			<Style>
 				<IconStyle>
@@ -261,7 +261,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -272,7 +272,7 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743713569672">
-			<name>Position (J)uliet</name>
+			<name>(J)uliet</name>
 			<description>Auch hier könnten fremde WLAN eine Verbindung verhindern.</description>
 			<Style>
 				<IconStyle>
@@ -291,7 +291,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -302,7 +302,7 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743713663035">
-			<name>Position (K)ilo</name>
+			<name>(K)ilo</name>
 			<description/>
 			<Style>
 				<IconStyle>
@@ -321,7 +321,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
@@ -332,8 +332,8 @@
 			</Point>
 		</Placemark>
 		<Placemark id="drawing_feature_1743713923330">
-			<name>Position (J)uliet (B)ravo</name>
-			<description>Die ist eine Vergleichsposition wenn viele WLAN in der Gegend von Position (J)uliet sein sollten.</description>
+			<name>(J)uliet (B)ravo</name>
+			<description>Die ist eine Vergleichswenn viele WLAN in der Gegend von (J)uliet sein sollten.</description>
 			<Style>
 				<IconStyle>
 					<scale>0.5</scale>
@@ -351,7 +351,7 @@
 			</Style>
 			<ExtendedData>
 				<Data name="textOffset">
-					<value>0,-44.75</value>
+					<value>0,0</value>
 				</Data>
 				<Data name="type">
 					<value>marker</value>
